@@ -1,7 +1,3 @@
-# Backend Challenge Adopet 
-
-6ª edição do backend challenge, criando uma API para cadastrar usuários que podem ser tutores ou abrigos, que acessam dados de pets para serem adotados.
-
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Planner**
